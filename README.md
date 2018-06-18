@@ -1,3 +1,2 @@
-# iHuNi
-
-Come with me!
+# TrueDiceZBot
+An auto bot for truedice.io
