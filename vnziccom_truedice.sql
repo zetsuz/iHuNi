@@ -65,6 +65,7 @@ INSERT INTO `truedice_user` (`id`, `account_id`, `admin_id`, `active`, `note`, `
 (44, 'dovinh961999', 195, 1, '', '18/06 test 2 ngay 100026948943985', 1529318225, 1529318225),
 (45, 'phucle1109', 195, 1, '', '18/06 test 2 ngay phucbun', 1529329456, 1529329456),
 (46, 'thebaocrcr', 195, 1, '', 'https://www.facebook.com/baosaudoi.dinh', 1529331571, 1529331571);
+(47, 'iHuNi', 195, 1, '', 1529342342, 1529342342);
 
 --
 -- Chỉ mục cho các bảng đã đổ
